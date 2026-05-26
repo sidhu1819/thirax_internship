@@ -1,0 +1,42 @@
+# Customer Segmentation Analysis using Python & Power BI
+
+## Overview
+
+This project focuses on analyzing customer purchasing behavior using RFM Analysis and K-Means Clustering to segment customers into meaningful groups. The project combines Machine Learning, Data Analytics, and Data Visualization techniques to generate business insights and support targeted marketing strategies.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Power BI
+
+## Key Features
+
+* Data Cleaning & Preprocessing
+* RFM Analysis
+* K-Means Clustering
+* Customer Segmentation
+* Interactive Power BI Dashboard
+* Business Insight Generation
+
+## Segments Identified
+
+* Premium Customers
+* Loyal Customers
+* Budget Customers
+* Inactive Customers
+
+## Business Insights
+
+* Premium customers contribute significantly to overall revenue.
+* Loyal customers maintain stable purchasing frequency.
+* Inactive customers indicate potential churn risk.
+* Segmentation helps improve personalized marketing strategies.
+
+## Outcome
+
+Successfully developed a machine learning-based customer segmentation system with interactive dashboard visualizations to support customer analytics and business decision-making.
